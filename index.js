@@ -89,4 +89,4 @@ app.use("*", (request, response) =>
 
 const server = http.createServer(app);
 
-server.listen(3334, () => console.log(`Serve is running at ${HOST}`));
+server.listen(PORT, () => console.log(`Serve is running at ${HOST}`));
