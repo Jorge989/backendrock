@@ -20,7 +20,7 @@ app.get("/", (request, response) => {
       name: "Smoke On The Water",
       duration: "00:06:09",
       cover: `https://rockerback.herokuapp.com/covers/metallica_nothing_else_matters.jpg`,
-      url: `https://rockerback.herokuapp.com/musics/Smoke.mp3`,
+      url: `https://rockerback.herokuapp.com/musics/Metalicaent.mp3`,
     },
 
     {
